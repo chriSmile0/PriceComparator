@@ -8,7 +8,7 @@ BIN	= "bin/"
 all : proj
 
 proj:
-	mkdir ${BIN} 2> /dev/null 
+	mkdir bin 2> /dev/null ;\
 	$(CC) $(CFLAGS) $(SRC)*.c -o $(BIN)main $(LIBFLAGS)
 
 exec: all 

@@ -58,8 +58,18 @@ int double_carre = 2<<1;*/
 
 /**********************FIN***************************/
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float pow_hf(float number, int puissance);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 int pow_hi(int number, int puissance);
 
 
@@ -78,21 +88,60 @@ typedef struct {
 	float coordinates_min_y;
 } circle_maxs;
 
-
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 void print_coordinates(coordinates p);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float calc_D_Earth2Points(coordinates p1, coordinates p2);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float calc_Angle_Earth2Points(coordinates p1, coordinates p2);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float ToNorth(coordinates c, float distance);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float ToEast(coordinates c, float distance);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float ToSouth(coordinates c, float distance);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 float ToWest(coordinates c, float distance);
 
+/**
+ * @brief
+ * @param
+ * @return 
+*/
 coordinates ToAnyDegree(coordinates p1, float distance , int degres);
 
 
