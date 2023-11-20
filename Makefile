@@ -8,10 +8,11 @@ BIN	= "bin/"
 all : proj
 
 proj:
+	mkdir ${BIN} 2> /dev/null 
 	$(CC) $(CFLAGS) $(SRC)*.c -o $(BIN)main $(LIBFLAGS)
 
 exec: all 
 	./bin/main
 
 clean: 
-	$(RM) $(BIN)main
+	-$(RM) -r $(BIN)

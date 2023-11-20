@@ -44,7 +44,7 @@ function create_coordinates()
 function fill_history() 
 {
 	# On cherche maintenant notre fichier de cible que l'on adapte 
-	all_targets=$(strings example_targets | tr -s ' ' '+')
+	all_targets=$(strings ../data/example_targets | tr -s ' ' '+')
 	#echo $all_targets
 	echo  $all_targets
 	cpt=0

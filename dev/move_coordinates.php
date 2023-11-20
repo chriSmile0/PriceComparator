@@ -61,7 +61,5 @@ function extract_coordinates($file) {
 
 
 extract_coordinates("target_coordinates.txt");
-
-
-//Fonctionne 
+//OK
 ?>
