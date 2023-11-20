@@ -40,8 +40,8 @@ int main(int argc, char *argv[]) {
 	//coordinates p1_puynormand = {45.0, 0.0};
 	/*coordinates tp1 = {2,51};
 	coordinates tp2 = {3,51};*/
-	float distance_p1_p2 = calc_D_Earth2Points(p1,p2);
-	printf("Distance entre chambéry et aix les bains : %f\n",distance_p1_p2);
+	float distance_p1_p2 = calc_D_Earth2Points(p1, p2);
+	printf("Distance entre chambéry et aix les bains : %f\n", distance_p1_p2);
 
 	// On cherche maintenant à inverser la formule de tel sorte que des coordonnees
 	// plus une distance donne des nouvelles coordonnées en y ajoutant une direction 
@@ -51,11 +51,8 @@ int main(int argc, char *argv[]) {
 	coordinates chamb_adegree = ToAnyDegree(p2,14.0,90);
 	printf("ToAnyDegree of Chambery : %f,%f\n",chamb_adegree.y,chamb_adegree.x);*/
 
-	coordinates paris_adegree = ToAnyDegree(p1_p,150,180);
-	printf("ToAnyDegree of paris : N  : %f,%f\n",paris_adegree.y,paris_adegree.x);
+	coordinates paris_adegree = ToAnyDegree(p1_p, 150, 180);
+	printf("ToAnyDegree of paris : N  : %f,%f\n", paris_adegree.y, paris_adegree.x);
 	//printf("%f\n",(48.85646701996376+(150/R)*(2)));	
-
-
-
 	return 0;
 }

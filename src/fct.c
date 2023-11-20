@@ -10,13 +10,6 @@ float translate_distance_add_to_coordinates_in_coordinates(int distance,float ol
 void init_circle_maxs(circle_maxs *to_init, int radius,coordinates cds_tgt) {
 	to_init->radius = radius;
 	to_init->tgt = cds_tgt;
-
-	//Attention pour les coordonnées il faut ici retranscrire en coordonnees
-	//Et donc connaître les nouvelles coordonnées en fonction de la 
-	//distance nouvellement ajouter aux coordonnées initiales
-
-
-
 	to_init->coordinates_max_x = to_init->tgt.x + radius;
 	to_init->coordinates_min_x = to_init->tgt.x - radius;
 	to_init->coordinates_max_y = to_init->tgt.y + radius;
