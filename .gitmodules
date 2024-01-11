@@ -1,0 +1,3 @@
+[submodule "scrapper"]
+	path = scrapper
+	url = https://github.com/chriSmile0/Scrapper
