@@ -11,8 +11,12 @@ proj:
 	mkdir bin 2> /dev/null ;\
 	$(CC) $(CFLAGS) $(SRC)*.c -o $(BIN)main $(LIBFLAGS)
 
-exec: all 
-	./bin/main
+exec: all # default 
+	./bin/main firefox
+
+exec_chrome: all 
+	./bin/main google-chrome
+
 
 clean: 
 	-$(RM) -r $(BIN)

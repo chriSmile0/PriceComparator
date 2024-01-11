@@ -25,6 +25,7 @@
 
 ### Script Shell
 
+### Firefox 
 - On va remplir un fichier de cibles (Paris,Leclerc,Super U, etc)
 - On remplit notre historique avec beaucoup de lieu différents :
   - Pour toute cible :  
@@ -39,38 +40,79 @@
 			sans doute simplifiable avec une autre commande 
         - `kill -s kill $NUM_PROC`  
       - `firefox `
+  -  On fouille dans notre historique avec la commande suivante :
+     - `sqlite3 ~/.mozilla/firefox/ob87e3st.default-release-1694253438802/places.sqlite`
+     - `PRAGMA table_info(moz_places)` qui donne :
   
-- On fouille dans notre historique avec la commande suivante :
-  - `sqlite3 ~/.mozilla/firefox/ob87e3st.default-release-1694253438802/places.sqlite`
-  - `PRAGMA table_info(moz_places)` qui donne :
-	|Id	|field				|type		|value 	|value2	|value3|
-	|:-:|:-----------------:|:---------:|:-----:|:-----:|:-----:|
-	|0	|id					|INTEGER	|0		|/		|1		|
-	|1	|url				|LONGVARCHAR|0		|/		|0		|
-	|2	|title				|LONGVARCHAR|0		|/		|0		|
-	|3	|rev_host			|LONGVARCHAR|0		|/		|0		|
-	|4	|visit_count		|INTEGER	|0		|0		|0		|
-	|5	|hidden				|INTEGER	|1		|0		|0		|
-	|6	|typed				|INTEGER	|1		|0		|0		|
-	|7	|frecency			|INTEGER	|1		|-1		|0		|
-	|8	|last_visit_date	|INTEGER	|0		|/		|0		|
-	|9	|guid				|TEXT		|0		|/		|0		|
-	|10	|foreign_count		|INTEGER	|1		|0		|0		|
-	|11	|url_hash			|INTEGER	|1		|0		|0		|
-	|12	|description		|TEXT		|0		|/		|0		|
-	|13	|preview_image_url	|TEXT		|0		|/		|0		|
-	|14	|origin_id			|INTEGER	|0		|/		|0		|
-	|15	|site_name			|TEXT		|0		|/		|0		|
-	|16	|recalc_frecency	|INTEGER	|1		|0		|0		|
+		|Id	|field				|type		|value 	|value2	|value3|
+		|:-:|:-----------------:|:---------:|:-----:|:-----:|:-----:|
+		|0	|id					|INTEGER	|0		|/		|1		|
+		|1	|url				|LONGVARCHAR|0		|/		|0		|
+		|2	|title				|LONGVARCHAR|0		|/		|0		|
+		|3	|rev_host			|LONGVARCHAR|0		|/		|0		|
+		|4	|visit_count		|INTEGER	|0		|0		|0		|
+		|5	|hidden				|INTEGER	|1		|0		|0		|
+		|6	|typed				|INTEGER	|1		|0		|0		|
+		|7	|frecency			|INTEGER	|1		|-1		|0		|
+		|8	|last_visit_date	|INTEGER	|0		|/		|0		|
+		|9	|guid				|TEXT		|0		|/		|0		|
+		|10	|foreign_count		|INTEGER	|1		|0		|0		|
+		|11	|url_hash			|INTEGER	|1		|0		|0		|
+		|12	|description		|TEXT		|0		|/		|0		|
+		|13	|preview_image_url	|TEXT		|0		|/		|0		|
+		|14	|origin_id			|INTEGER	|0		|/		|0		|
+		|15	|site_name			|TEXT		|0		|/		|0		|
+		|16	|recalc_frecency	|INTEGER	|1		|0		|0		|
+   	- On peut donc trier par url et parser ensuite le retour de chaque entrer
+   	- Pour cela on utilise notre serveur apache avec php 
+   		afin d'extraire tout les urls et les mettre dans le fichier 
+   		avant d'inserer dans le fichier on parse l'url afin d'obtenir des informations
+     		sous la forme cible/@x,y,z (on veut que x,y pour notre calcul de la distance par après) 
+   	- Commande d'extraction = <br>
+     		`Select distinct(url) from moz_places where url LIKE 'https://www.google.fr/maps/place/%' ';` <br>
+     		`fetch ` puis ` file`
+   	- OPTION SUP -> On ajoute la comparaison avec le rayon à parcourir et le prix de l'essence afin de pousser la comparaison au maximum!!
+
+  
+### Chrome 
+- On va remplir un fichier de cibles (Paris,Leclerc,Super U, etc)
+- On remplit notre historique avec beaucoup de lieu différents :
+  - Pour toute cible :  
+    - `google-chrome https://www.google.fr/maps/place/ + cible`
+    - `CRTL^W`
+  - Ou plus simplement : 
+	- `google-chrome https://www.google.fr`
+	- pour toute cible : 
+      - Toutes les 8 onglets on kill la fenêtre : 
+        - $NUM_PROC = <br>
+  			`ps -e | grep -e google-chrome | grep -Eo '[0-9]{1,6}' | head -n 1` <br>
+			sans doute simplifiable avec une autre commande 
+        - `kill -s kill $NUM_PROC`  
+      - `google-chrome `
+
+	- On fouille dans notre historique avec la commande suivante :
+    - `sqlite3 ~/.config/google-chrome/Default/History`
+    - `PRAGMA table_info(urls)` qui donne :
+  
+		|Id	|field				|type		|value 	|value2	|value3|
+		|:-:|:-----------------:|:---------:|:-----:|:-----:|:-----:|
+		|0	|id					|INTEGER	|0		|/		|1		|
+		|1	|url				|LONGVARCHAR|0		|/		|0		|
+		|2	|title				|LONGVARCHAR|0		|/		|0		|
+		|3	|visit_coun	t		|INTEGER	|1		|0		|0		|
+		|4	|typed_coun	t		|INTEGER	|1		|0		|0		|
+		|5	|last_visit_time	|INTEGER	|1		|/		|0		|
+		|6	|hi	dden			|INTEGER	|1		|0		|0		|
 	- On peut donc trier par url et parser ensuite le retour de chaque entrer
 	- Pour cela on utilise notre serveur apache avec php 
 		afin d'extraire tout les urls et les mettre dans le fichier 
 		avant d'inserer dans le fichier on parse l'url afin d'obtenir des informations
   		sous la forme cible/@x,y,z (on veut que x,y pour notre calcul de la distance par après) 
 	- Commande d'extraction = <br>
-  		`Select distinct(url) from moz_places where url LIKE 'https://www.google.fr/maps/place/%' ';` <br>
+  		`Select distinct(url) from urls where url LIKE 'https://www.google.fr/maps/place/%' ';` <br>
   		`fetch ` puis ` file`
 	- OPTION SUP -> On ajoute la comparaison avec le rayon à parcourir et le prix de l'essence afin de pousser la comparaison au maximum!!
+
 
 
 
