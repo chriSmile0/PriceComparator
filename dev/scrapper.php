@@ -1,5 +1,5 @@
 <?php
-
+require "../scrapper.php"
 /*content_html("http://localhost/projet_pw2",false,"tag","lol");
 echo protocol("https://localhost/projet_pw2");
 echo "scrapping-> " . scrapping("https://localhost/projet_pw2") . "\n";*/
