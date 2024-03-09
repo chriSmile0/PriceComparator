@@ -1,5 +1,4 @@
 <?php
-require "../scrapper/scrapper.php"
 # USAGE : php7.2 scrapper_use.php --test (for the moment)
 ## NEXT MOVE -> update function of original module 'scrapper'
 
