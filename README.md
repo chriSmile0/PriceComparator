@@ -1,4 +1,5 @@
 # Price Comparator
+**NEW_VERSION SOON**
 
 ## Définir la zone d'action 
 - Prendre un point de départ cible (une ville par exemple)

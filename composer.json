@@ -1,0 +1,27 @@
+{
+	"description": "scrapping supermarkets",
+	"license": "proprietary",
+	"name": "supermarket/scrap",
+	"authors": [
+		{
+			"name": "Chris",
+			"role": "Owner/Developer"
+		}
+	],
+	"require": {
+		"php-webdriver/webdriver": "^1.13",
+		"chrismile0/scrapper": "^1.1"
+	},
+	"repositories": {
+		"repo-name": {
+			"type": "vcs",
+			"url": "https://github.com/chriSmile0/Scrapper"
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"App\\Scrapper\\": "vendor/chrismile0/scrapper/dev",
+			"Vendor\\Namespace\\": ""
+		}
+    }
+}
