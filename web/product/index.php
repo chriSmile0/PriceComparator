@@ -68,10 +68,10 @@
 					<input name="c5" id="c5" type="checkbox"
 							aria-labelledby="name" value="Intermarche"
 							style="margin-left:2px;"><br>
-					<label for="c6">Systeme U</label>
+					<!--<label for="c6">Systeme U</label>
 					<input name="c6" id="c6" type="checkbox"
 							aria-labelledby="name" value="SystemeU"
-							style="margin-left:17px;"><br>
+							style="margin-left:17px;"><br>-->
 				</div>
 			</div>
 			<button id="btnsubmit" name="submitproduct" 
