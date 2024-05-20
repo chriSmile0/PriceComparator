@@ -1,0 +1,51 @@
+
+array(4) {
+  ["ens"]=>
+  array(3) {
+    [0]=>
+    string(8) "Monoprix"
+    [1]=>
+    string(7) "Leclerc"
+    [2]=>
+    string(6) "Auchan"
+  }
+  ["cities"]=>
+  array(3) {
+    [0]=>
+    string(5) "Paris"
+    [1]=>
+    string(7) "Voglans"
+    [2]=>
+    string(5) "Paris"
+  }
+  ["products"]=>
+  array(1) {
+    [0]=>
+    string(7) "Lardons"
+  }
+  ["labels"]=>
+  array(1) {
+    [0]=>
+    string(13) "Lardons fumes"
+  }
+}
+<span><b>brand:HERTA</b><b>name:herta lardons nature sans nitrite - 2x75g-150g</b><b>ens:Monoprix|Auchan</b><b>prix:2.55|3,05</b></span>
+<span><b>brand:HERTA</b><b>name:herta lardons fumés sans nitrite - 2x75g-150g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:2.55|2.13|2,93</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes fumés sans nitrite - 2x75g-150g</b><b>ens:Monoprix</b><b>prix:3.15</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes nature sans nitrite - 2x75g-150g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:3.15|2.29|3,08</b></span>
+<span><b>brand:HERTA</b><b>name:herta lardons nature 200g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:2.75|2.33|3,11</b></span>
+<span><b>brand:HERTA</b><b>name:herta lardons fumés 200g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:3.15|2.32|3,08</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes fumées -25% de sel - 2x75g-150g</b><b>ens:Monoprix</b><b>prix:2.59</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes nature 200g</b><b>ens:Monoprix|Auchan</b><b>prix:1.99|2,85</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes fumées 200g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:2.79|2.14|2,91</b></span>
+<span><b>brand:HERTA</b><b>name:herta allumettes de bacon 200g</b><b>ens:Monoprix</b><b>prix:2.84</b></span>
+<span><b>brand:HERTA</b><b>name:herta lardons -25% de sel - 2x75g-150g</b><b>ens:Monoprix</b><b>prix:3.09</b></span>
+<span><b>brand:Herta</b><b>name:allumettes fumées herta sans nitrite - 2x75g-150g</b><b>ens:Leclerc|Auchan</b><b>prix:2.2|3,06</b></span>
+<span><b>brand:Herta</b><b>name:allumettes de bacon herta fumées 200g</b><b>ens:Leclerc</b><b>prix:2.11</b></span>
+<span><b>brand:HERTA</b><b>name:HERTA Allumettes de bacon fumées 3% de matière grasse  - 2x100g-200g</b><b>ens:Auchan</b><b>prix:2,86</b></span>
+<span><b>brand:HERTA</b><b>name:HERTA Fines tranches de poitrine fumée  - 2x100g-200g</b><b>ens:Auchan</b><b>prix:3,91</b></span>
+<span><b>brand:HERTA</b><b>name:HERTA Fines tranches de poitrine fumée 100g</b><b>ens:Auchan</b><b>prix:3,11</b></span>
+<span><b>brand:HERTA</b><b>name:HERTA Lardons fumés 300g</b><b>ens:Auchan</b><b>prix:3,35</b></span>
+<span><b>brand:HERTA</b><b>name:HERTA Lardons fumés réduit en sel  - 2x75g-150g</b><b>ens:Auchan</b><b>prix:2,83</b></span>
+<span><b>brand:Fleury Michon</b><b>name:fleury michon allumettes de jambon cuit - 2x75g-150g</b><b>ens:Monoprix|Leclerc|Auchan</b><b>prix:1.99|1.29|1,95</b></span>
+<span><b>brand:FLEURY MICHON</b><b>name:FLEURY MICHON Allumettes de poulet  - 2x75g-150g</b><b>ens:Auchan</b><b>prix:2,18</b></span>

@@ -9,7 +9,7 @@
 		}
 	],
 	"require": {
-		"chrismile0/scrapper": "^1.2"
+		"chrismile0/scrapper": "^1.4.1"
 	},
 	"repositories": {
 		"repo-name": {
