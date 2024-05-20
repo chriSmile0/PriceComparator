@@ -58,6 +58,9 @@ $choice_ens = array();
 $possible_ens = ["Carrefour","Leclerc","Monoprix","Auchan","Intermarche"];//ADD SU LATER
 $active_ens =  ["Carrefour"=>false,"Leclerc"=>false,"Monoprix"=>false,"Auchan"=>false,"Intermarche"=>false];
 
+function sleep_test() {
+}
+
 function test_input2($data) {
     return htmlspecialchars(stripslashes(trim($data)));
 }
@@ -173,6 +176,7 @@ function display_each_product(array $create_cmp_pro) {
 		$rtn .= "<span>".$c_cmp['name']."</span>";
 		$rtn .= "<ul>";
 		$size = sizeof($c_cmp['ens']);
+		echo "size : $size\n";
 		for($i = 0 ; $i < $size ; $i++) {
 			$rtn .= "<li>".$c_cmp['ens'][$i]."|".$c_cmp['prix'][$i]."</li>";
 		}
@@ -185,14 +189,33 @@ function display_each_product(array $create_cmp_pro) {
 function display_compare(string $product, string $city) {
 	$rtn = "";
 	$all_ens = $GLOBALS['active_ens'];
+	echo "SLEEP \n";
+	//sleep_test();
+	$c = ($all_ens['Carrefour']) ? content_scrap_carrefour($product,$city) : NULL; // HIDE URL NEXT UPDATE SCRAPPER
+
+
+	/**************************************USE REMOTEWEBDRIVER**** */
+
+	echo "end SLEEP \n";
 	//$c = ($all_ens['Carrefour']) ? "TRUE" : "FALSE"; 
-	//$c = ($all_ens['Carrefour']) ? content_scrap_carrefour("https://www.carrefour.fr/courses",$product,$city) : NULL; // HIDE URL NEXT UPDATE SCRAPPER
-	$l = ($all_ens['Leclerc']) ? content_scrap_leclerc($product,$city) : NULL;
-	/*$m = ($all_ens['Monoprix']) ? content_scrap_monoprix($product,$city) : NULL;
-	$a = ($all_ens['Auchan']) ? content_scrap_auchan("https://www.auchan.fr/",$product,$city) : NULL; // HIDE URL NEXT UPDATE SCRAPPER
-	$i = ($all_ens['Intermarche']) ? content_scrap_intermarche("https://www.intermarche.com/",$product,$city) : NULL; */// HIDE URL NEXT UPDATE SCRAPPER */
+	/////********************Timed out waiting for http://localhost:9515/status***************///
+	//$l = ($all_ens['Leclerc']) ? content_scrap_leclerc($product,$city) : NULL;
+	/*$m = ($all_ens['Monoprix']) ? content_scrap_monoprix($product) : NULL;
+	$a = ($all_ens['Auchan']) ? content_scrap_auchan(,$product,$city) : NULL; // HIDE URL NEXT UPDATE SCRAPPER
+	$i = ($all_ens['Intermarche']) ? content_scrap_intermarche($product,$city) : NULL; */// HIDE URL NEXT UPDATE SCRAPPER */
 
 	// TEST FOR DISPLAY LECLERC AND CARREFOUR 
+	$l = array([
+		"sLibelleLigne1" => "Lardons fumés Herta",
+		"sLibelleLigne2" => "200g",
+		"sPrixUnitaire" => "2",
+		"nrPVUnitaireTTC" => "2.15",
+		"sPrixPromo" => "0",
+		"sPrixParUniteDeMesure" => "12",
+		"nrPVParUniteDeMesureTTC" => "12.05",
+		"sUrlPageProduit" => "https//fd7-courses.leclercdrive.fr/magasin-037301-037301-Voglans/fiche-produits-169342-Lardons-fumes-Herta.aspx"
+	]);
+
 	$c = array([
 		"ean" =>"12345",
 		"title" => "Lardons fumés Herta 200g", 
