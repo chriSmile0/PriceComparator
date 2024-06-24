@@ -1,0 +1,68 @@
+<div class="compare"><div class="brands"><h5 style="text-align:center;margin-left:5%;">herta</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>HERTA Allumettes nature sans nitrite  - 2x75g-150g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2.62</b><b >3.15</b></div></td></tr>
+<tr><th>HERTA Allumettes fumées sans nitrite  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>2.60</th> </tr>
+<tr><th>HERTA Lardons nature sans nitrite  - 2x75g-150g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b >2.59</b><b style="border:solid blue;">2.55</b></div></td></tr>
+<tr><th>HERTA Allumettes de bacon fumées 3% de matière grasse  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>2.30</th> </tr>
+<tr><th>HERTA Lardons fumés sans nitrite  - 2x75g-150g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2.33</b><b >2.55</b></div></td></tr>
+<tr><th>HERTA Lardons fumés 200g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2.52</b><b >3.15</b></div></td></tr>
+<tr><th>HERTA Lardons nature 200g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2.65</b><b >2.75</b></div></td></tr>
+<tr><th>HERTA Fines tranches de poitrine fumée 7g</th> <th>Auchan:Annecy</th> <th>2.65</th> </tr>
+<tr><th>HERTA Lardons fumés 300g</th> <th>Auchan:Annecy</th> <th>3.08</th> </tr>
+<tr><th>HERTA Fines tranches de poitrine fumée  - 2x7g-14g</th> <th>Auchan:Annecy</th> <th>3.31</th> </tr>
+<tr><th>HERTA Lardons fumés réduit en sel  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>2.38</th> </tr>
+<tr><th>HERTA Allumettes fumées 200g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2.46</b><b >2.79</b></div></td></tr>
+<tr><th>HERTA Allumettes nature 200g</th> <td><div><b >Auchan:Annecy</b><b >Monoprix:Paris</b></div></td><td><div><b >2.42</b><b style="border:solid blue;">1.99</b></div></td></tr>
+<tr><th>herta allumettes fumés sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+<tr><th>herta allumettes fumées -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.59</th> </tr>
+<tr><th>herta lardons -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.09</th> </tr>
+<tr><th>herta allumettes de bacon 200g</th> <th>Monoprix:Paris</th> <th>2.84</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">la vie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>LA VIE Lardons végétaux fumés  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>3.80</th> </tr>
+<tr><th>la vie lardon végétaux fume 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+<tr><th>la vie lardon végétaux nature 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">fleury michon</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>FLEURY MICHON Allumettes de jambon  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>1.61</th> </tr>
+<tr><th>fleury michon allumettes de jambon cuit - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>1.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">auchan</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>AUCHAN Allumettes fumées  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>1.95</th> </tr>
+<tr><th>AUCHAN Lardons fumés sans nitrite  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>2.19</th> </tr>
+<tr><th>AUCHAN Lardons fumés  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>2.09</th> </tr>
+<tr><th>AUCHAN Allumettes nature  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>2.07</th> </tr>
+<tr><th>AUCHAN Allumettes fumées sans nitrite  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>2.15</th> </tr>
+<tr><th>AUCHAN Lardons nature  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>2.09</th> </tr>
+<tr><th>AUCHAN Allumettes de bacon fumées  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>1.99</th> </tr>
+<tr><th>AUCHAN Allumettes fumées  - 2x150g-300g</th> <th>Auchan:Annecy</th> <th>3.12</th> </tr>
+<tr><th>AUCHAN Poitrine nature tranches fines  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>3.10</th> </tr>
+<tr><th>AUCHAN Lardons fumés  - 2x150g-300g</th> <th>Auchan:Annecy</th> <th>3.13</th> </tr>
+<tr><th>AUCHAN Lardons nature  - 2x150g-300g</th> <th>Auchan:Annecy</th> <th>3.10</th> </tr>
+<tr><th>AUCHAN Allumettes nature  - 2x150g-300g</th> <th>Auchan:Annecy</th> <th>3.15</th> </tr>
+<tr><th>AUCHAN Poitrine fumée tranches fines  - 2x100g-200g</th> <th>Auchan:Annecy</th> <th>3.04</th> </tr>
+<tr><th>AUCHAN Allumettes fumées  - 4x88g-352g</th> <th>Auchan:Annecy</th> <th></th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">auchan bio</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>AUCHAN BIO Lardons fumés  - 2x75g-150g</th> <th>Auchan:Annecy</th> <th>2.26</th> </tr>
+<tr><th>AUCHAN BIO Allumettes fumées  - 2x60g-120g</th> <th>Auchan:Annecy</th> <th>1.84</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">pouce</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>POUCE Lardons fumés 200g</th> <th>Auchan:Annecy</th> <th>1.56</th> </tr>
+<tr><th>POUCE Lardons nature 200g</th> <th>Auchan:Annecy</th> <th>1.56</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">auchan le charcutier</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>AUCHAN LE CHARCUTIER Poitrine fumé cuit  - 4x100g-400g</th> <th>Auchan:Annecy</th> <th>6.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">monoprix</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>monoprix lardons nature qualité supérieure 200g</th> <th>Monoprix:Paris</th> <th>1.65</th> </tr>
+<tr><th>monoprix lardons fumés qualité supérieure 200g</th> <th>Monoprix:Paris</th> <th>1.69</th> </tr>
+<tr><th>monoprix lardon allumette fumé - 2x100g-200g</th> <th>Monoprix:Paris</th> <th>2.25</th> </tr>
+<tr><th>monoprix allumettes de lardons nature - 2x100g-200g</th> <th>Monoprix:Paris</th> <th>2.25</th> </tr>
+<tr><th>monoprix allumettes de bacon fumé 200g</th> <th>Monoprix:Paris</th> <th>2.39</th> </tr>
+<tr><th>monoprix lardons fumés - 25% de sel 200g</th> <th>Monoprix:Paris</th> <th>2.39</th> </tr>
+<tr><th>monoprix lardons de truite fumée 90g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+<tr><th>monoprix lardons de saumon fumés 90g</th> <th>Monoprix:Paris</th> <th>5.15</th> </tr>
+<tr><th>monoprix petits pois cuisinés aux lardons, carottes & oignons 280g</th> <th>Monoprix:Paris</th> <th>1.95</th> </tr>
+<tr><th>monoprix galettes de blé noir chèvres lardons x2, 300g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+<tr><th>monoprix galettes de blé noir champignons lardon emmental x2 300g</th> <th>Monoprix:Paris</th> <th>4.15</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">monoprix bio</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>monoprix bio lardons fumés au bois de hêtre bio 150g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">casa modena</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>casa modena pétales de guanciale 100g</th> <th>Monoprix:Paris</th> <th>2.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">naturalia</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>naturalia lardons fumés sans sel nitrité ajouté bio 150g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+<tr><th>naturalia lardons nature bio 150g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">réghalal</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>réghalal lardons de volaille fumés au bois de hêtre 150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">sodebo</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>sodebo pizza la pizz chèvre affiné et lardons 470g</th> <th>Monoprix:Paris</th> <th>3.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">pierre schmidt </h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>pierre schmidt 2 flammekueches lardons oignons rondes</th> <th>Monoprix:Paris</th> <th>2.89</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">stoeffler</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>stoeffler flammekueche fromage blanc lardons oignons 550g</th> <th>Monoprix:Paris</th> <th>5.99</th> </tr>
+<tr><th>stoeffler flammkueche fromage lardons oignons 350g</th> <th>Monoprix:Paris</th> <th>4.29</th> </tr>
+<tr><th>stoeffler flammkueche fromage lardons oignons 180g</th> <th>Monoprix:Paris</th> <th>2.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">marie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>marie tarte chèvre oignons lardons fumés pur beurre 350g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+<tr><th>marie quiche lorraine lardons fumes creme fraiche et emmental pur beurre marie 400g</th> <th>Monoprix:Paris</th> <th>3.99</th> </tr>
+<tr><th>marie tagliatelles À la carbonara aux lardons fumés & crème fraîche 330g</th> <th>Monoprix:Paris</th> <th>4.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">mix buffet</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>mix pizza montagnarde lardons raclette 380g</th> <th>Monoprix:Paris</th> <th>6.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">natos</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>natos pain brioche chorizo lardons 300g</th> <th>Monoprix:Paris</th> <th>6.49</th> </tr>
+</table></div></div>

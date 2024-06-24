@@ -1,0 +1,623 @@
+CARREFOU1:
+CARREFOU2:
+CARREFOU3:
+CARREFOU4:
+CARREFOU5:
+title : Lardons fumés   HERTA 
+matches 
+array(1) {
+  [0]=>
+  array(1) {
+    [0]=>
+    string(5) "HERTA"
+  }
+}
+title : Lardons fumés conservation sans nitrite   HERTA 
+matches 
+array(1) {
+  [0]=>
+  array(1) {
+    [0]=>
+    string(5) "HERTA"
+  }
+}
+title : Lardons fumés SIMPL 
+matches 
+array(1) {
+  [0]=>
+  array(1) {
+    [0]=>
+    string(5) "SIMPL"
+  }
+}
+title : Lardons fumés CARREFOUR EXTRA 
+matches 
+array(1) {
+  [0]=>
+  array(2) {
+    [0]=>
+    string(9) "CARREFOUR"
+    [1]=>
+    string(5) "EXTRA"
+  }
+}
+title : Lot 6x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  
+matches 
+array(1) {
+  [0]=>
+  array(0) {
+  }
+}
+title : Lot 3x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  
+matches 
+array(1) {
+  [0]=>
+  array(0) {
+  }
+}
+title : Dès De Lardon Fumé 1 Kg.  
+matches 
+array(1) {
+  [0]=>
+  array(0) {
+  }
+}
+title : Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  
+matches 
+array(1) {
+  [0]=>
+  array(0) {
+  }
+}
+title : Lot De 3 Lardons Fumés Sous Vide Soit Env 840g  
+matches 
+array(1) {
+  [0]=>
+  array(0) {
+  }
+}
+array(9) {
+  [0]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3154230802136"
+    ["title"]=>
+    string(22) "Lardons fumés   HERTA"
+    ["brand"]=>
+    string(5) "HERTA"
+    ["slug"]=>
+    string(19) "lardons-fumes-herta"
+    ["offerServiceId"]=>
+    string(15) "6200-150-800014"
+    ["packaging"]=>
+    string(4) "200g"
+    ["nutriscore"]=>
+    array(3) {
+      ["value"]=>
+      string(1) "D"
+      ["source"]=>
+      string(0) ""
+      ["licence"]=>
+      string(0) ""
+    }
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(2.86)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "KG"
+      ["perUnit"]=>
+      float(14.3)
+      ["perUnitLabel"]=>
+      string(14) "14.30 € / KG"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [1]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3154230802280"
+    ["title"]=>
+    string(48) "Lardons fumés conservation sans nitrite   HERTA"
+    ["brand"]=>
+    string(5) "HERTA"
+    ["slug"]=>
+    string(45) "lardons-fumes-conservation-sans-nitrite-herta"
+    ["offerServiceId"]=>
+    string(15) "6200-150-800014"
+    ["packaging"]=>
+    string(10) "2x75g-150g"
+    ["nutriscore"]=>
+    array(3) {
+      ["value"]=>
+      string(1) "D"
+      ["source"]=>
+      string(0) ""
+      ["licence"]=>
+      string(0) ""
+    }
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      int(3)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "KG"
+      ["perUnit"]=>
+      int(20)
+      ["perUnitLabel"]=>
+      string(14) "20.00 € / KG"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [2]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3560070536641"
+    ["title"]=>
+    string(20) "Lardons fumés SIMPL"
+    ["brand"]=>
+    string(5) "SIMPL"
+    ["slug"]=>
+    string(19) "lardons-fumes-simpl"
+    ["offerServiceId"]=>
+    string(15) "6200-150-800014"
+    ["packaging"]=>
+    string(4) "200g"
+    ["nutriscore"]=>
+    array(3) {
+      ["value"]=>
+      string(1) "E"
+      ["source"]=>
+      string(0) ""
+      ["licence"]=>
+      string(0) ""
+    }
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(2.04)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "KG"
+      ["perUnit"]=>
+      float(10.2)
+      ["perUnitLabel"]=>
+      string(14) "10.20 € / KG"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [3]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3560071012854"
+    ["title"]=>
+    string(30) "Lardons fumés CARREFOUR EXTRA"
+    ["brand"]=>
+    string(15) "CARREFOUR EXTRA"
+    ["slug"]=>
+    string(29) "lardons-fumes-carrefour-extra"
+    ["offerServiceId"]=>
+    string(15) "6200-150-800014"
+    ["packaging"]=>
+    string(11) "2x100g-200g"
+    ["nutriscore"]=>
+    array(3) {
+      ["value"]=>
+      string(1) "E"
+      ["source"]=>
+      string(0) ""
+      ["licence"]=>
+      string(0) ""
+    }
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(3.35)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "KG"
+      ["perUnit"]=>
+      float(16.75)
+      ["perUnitLabel"]=>
+      string(14) "16.75 € / KG"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [4]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3665549107275"
+    ["title"]=>
+    string(63) "Lot 6x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g "
+    ["brand"]=>
+    string(0) ""
+    ["slug"]=>
+    string(57) "lot-6x-terrine-de-campagne-aux-lardons-fumes-vpf-pot-280g"
+    ["offerServiceId"]=>
+    string(13) "MKP_FOOD-2122"
+    ["packaging"]=>
+    string(12) "6x280g-1680g"
+    ["nutriscore"]=>
+    NULL
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(83.43)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "kg"
+      ["perUnit"]=>
+      float(42.21)
+      ["perUnitLabel"]=>
+      string(14) "42.21 € / kg"
+    }
+    ["promotion"]=>
+    array(16) {
+      ["type"]=>
+      string(2) "ri"
+      ["label"]=>
+      string(9) "Promotion"
+      ["message"]=>
+      string(12) "promotion.ri"
+      ["isLoyalty"]=>
+      bool(false)
+      ["isPromo"]=>
+      bool(true)
+      ["isPrixBarre"]=>
+      bool(true)
+      ["isPrixForce"]=>
+      bool(false)
+      ["isVuEnCatalogue"]=>
+      bool(false)
+      ["isCrescendo"]=>
+      bool(false)
+      ["isClubActive"]=>
+      bool(false)
+      ["bestQuantity"]=>
+      int(1)
+      ["messageArgs"]=>
+      array(7) {
+        ["quantity"]=>
+        int(1)
+        ["discountAmount"]=>
+        float(12.51)
+        ["discountedPrice"]=>
+        float(70.92)
+        ["initialPrice"]=>
+        float(83.43)
+        ["discountedPricePerUnit"]=>
+        NULL
+        ["startDate"]=>
+        string(24) "2024-04-11T00:00:00+0200"
+        ["endDate"]=>
+        string(24) "2999-12-31T23:59:00+0100"
+      }
+      ["promoStartDate"]=>
+      string(24) "2024-04-11T00:00:00+0200"
+      ["promoEndDate"]=>
+      string(24) "2999-12-31T23:59:00+0100"
+      ["mixableGtins"]=>
+      array(0) {
+      }
+      ["isPriceAlreadyDiscounted"]=>
+      bool(true)
+    }
+    ["promotions"]=>
+    array(1) {
+      [0]=>
+      array(16) {
+        ["type"]=>
+        string(2) "ri"
+        ["label"]=>
+        string(9) "Promotion"
+        ["message"]=>
+        string(12) "promotion.ri"
+        ["isLoyalty"]=>
+        bool(false)
+        ["isPromo"]=>
+        bool(true)
+        ["isPrixBarre"]=>
+        bool(true)
+        ["isPrixForce"]=>
+        bool(false)
+        ["isVuEnCatalogue"]=>
+        bool(false)
+        ["isCrescendo"]=>
+        bool(false)
+        ["isClubActive"]=>
+        bool(false)
+        ["bestQuantity"]=>
+        int(1)
+        ["messageArgs"]=>
+        array(7) {
+          ["quantity"]=>
+          int(1)
+          ["discountAmount"]=>
+          float(12.51)
+          ["discountedPrice"]=>
+          float(70.92)
+          ["initialPrice"]=>
+          float(83.43)
+          ["discountedPricePerUnit"]=>
+          NULL
+          ["startDate"]=>
+          string(24) "2024-04-11T00:00:00+0200"
+          ["endDate"]=>
+          string(24) "2999-12-31T23:59:00+0100"
+        }
+        ["promoStartDate"]=>
+        string(24) "2024-04-11T00:00:00+0200"
+        ["promoEndDate"]=>
+        string(24) "2999-12-31T23:59:00+0100"
+        ["mixableGtins"]=>
+        array(0) {
+        }
+        ["isPriceAlreadyDiscounted"]=>
+        bool(true)
+      }
+    }
+  }
+  [5]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3665549107480"
+    ["title"]=>
+    string(63) "Lot 3x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g "
+    ["brand"]=>
+    string(0) ""
+    ["slug"]=>
+    string(57) "lot-3x-terrine-de-campagne-aux-lardons-fumes-vpf-pot-280g"
+    ["offerServiceId"]=>
+    string(13) "MKP_FOOD-2122"
+    ["packaging"]=>
+    string(11) "3x280g-840g"
+    ["nutriscore"]=>
+    NULL
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(45.96)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "kg"
+      ["perUnit"]=>
+      float(49.24)
+      ["perUnitLabel"]=>
+      string(14) "49.24 € / kg"
+    }
+    ["promotion"]=>
+    array(16) {
+      ["type"]=>
+      string(2) "ri"
+      ["label"]=>
+      string(9) "Promotion"
+      ["message"]=>
+      string(12) "promotion.ri"
+      ["isLoyalty"]=>
+      bool(false)
+      ["isPromo"]=>
+      bool(true)
+      ["isPrixBarre"]=>
+      bool(true)
+      ["isPrixForce"]=>
+      bool(false)
+      ["isVuEnCatalogue"]=>
+      bool(false)
+      ["isCrescendo"]=>
+      bool(false)
+      ["isClubActive"]=>
+      bool(false)
+      ["bestQuantity"]=>
+      int(1)
+      ["messageArgs"]=>
+      array(7) {
+        ["quantity"]=>
+        int(1)
+        ["discountAmount"]=>
+        float(4.6)
+        ["discountedPrice"]=>
+        float(41.36)
+        ["initialPrice"]=>
+        float(45.96)
+        ["discountedPricePerUnit"]=>
+        NULL
+        ["startDate"]=>
+        string(24) "2024-04-11T00:00:00+0200"
+        ["endDate"]=>
+        string(24) "2999-12-31T23:59:00+0100"
+      }
+      ["promoStartDate"]=>
+      string(24) "2024-04-11T00:00:00+0200"
+      ["promoEndDate"]=>
+      string(24) "2999-12-31T23:59:00+0100"
+      ["mixableGtins"]=>
+      array(0) {
+      }
+      ["isPriceAlreadyDiscounted"]=>
+      bool(true)
+    }
+    ["promotions"]=>
+    array(1) {
+      [0]=>
+      array(16) {
+        ["type"]=>
+        string(2) "ri"
+        ["label"]=>
+        string(9) "Promotion"
+        ["message"]=>
+        string(12) "promotion.ri"
+        ["isLoyalty"]=>
+        bool(false)
+        ["isPromo"]=>
+        bool(true)
+        ["isPrixBarre"]=>
+        bool(true)
+        ["isPrixForce"]=>
+        bool(false)
+        ["isVuEnCatalogue"]=>
+        bool(false)
+        ["isCrescendo"]=>
+        bool(false)
+        ["isClubActive"]=>
+        bool(false)
+        ["bestQuantity"]=>
+        int(1)
+        ["messageArgs"]=>
+        array(7) {
+          ["quantity"]=>
+          int(1)
+          ["discountAmount"]=>
+          float(4.6)
+          ["discountedPrice"]=>
+          float(41.36)
+          ["initialPrice"]=>
+          float(45.96)
+          ["discountedPricePerUnit"]=>
+          NULL
+          ["startDate"]=>
+          string(24) "2024-04-11T00:00:00+0200"
+          ["endDate"]=>
+          string(24) "2999-12-31T23:59:00+0100"
+        }
+        ["promoStartDate"]=>
+        string(24) "2024-04-11T00:00:00+0200"
+        ["promoEndDate"]=>
+        string(24) "2999-12-31T23:59:00+0100"
+        ["mixableGtins"]=>
+        array(0) {
+        }
+        ["isPriceAlreadyDiscounted"]=>
+        bool(true)
+      }
+    }
+  }
+  [6]=>
+  array(10) {
+    ["ean"]=>
+    string(36) "91bef293-6b21-4067-bb7b-a65cad37bcd8"
+    ["title"]=>
+    string(27) "Dès De Lardon Fumé 1 Kg. "
+    ["brand"]=>
+    string(0) ""
+    ["slug"]=>
+    string(23) "des-de-lardon-fume-1-kg"
+    ["offerServiceId"]=>
+    string(13) "MKP_FOOD-2147"
+    ["packaging"]=>
+    string(3) "1kg"
+    ["nutriscore"]=>
+    NULL
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(25.89)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "kg"
+      ["perUnit"]=>
+      float(25.89)
+      ["perUnitLabel"]=>
+      string(14) "25.89 € / kg"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [7]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3270270007215"
+    ["title"]=>
+    string(56) "Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g "
+    ["brand"]=>
+    string(0) ""
+    ["slug"]=>
+    string(50) "terrine-de-campagne-aux-lardons-fumes-vpf-pot-280g"
+    ["offerServiceId"]=>
+    string(13) "MKP_FOOD-2122"
+    ["packaging"]=>
+    string(6) "0.28kg"
+    ["nutriscore"]=>
+    NULL
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(13.99)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(2) "kg"
+      ["perUnit"]=>
+      float(49.96)
+      ["perUnitLabel"]=>
+      string(14) "49.96 € / kg"
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+  [8]=>
+  array(10) {
+    ["ean"]=>
+    string(13) "3760190205636"
+    ["title"]=>
+    string(48) "Lot De 3 Lardons Fumés Sous Vide Soit Env 840g "
+    ["brand"]=>
+    string(0) ""
+    ["slug"]=>
+    string(46) "lot-de-3-lardons-fumes-sous-vide-soit-env-840g"
+    ["offerServiceId"]=>
+    string(13) "MKP_FOOD-2058"
+    ["packaging"]=>
+    NULL
+    ["nutriscore"]=>
+    NULL
+    ["price"]=>
+    array(5) {
+      ["price"]=>
+      float(11.2)
+      ["taxMessage"]=>
+      string(0) ""
+      ["unitOfMeasure"]=>
+      string(0) ""
+      ["perUnit"]=>
+      string(0) ""
+      ["perUnitLabel"]=>
+      string(0) ""
+    }
+    ["promotion"]=>
+    NULL
+    ["promotions"]=>
+    array(0) {
+    }
+  }
+}

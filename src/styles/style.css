@@ -1,0 +1,291 @@
+html {
+	background-color: white;
+    opacity:0.9;
+}
+
+* {
+    box-sizing:border-box;
+	color:black;
+}
+
+body {
+	margin : auto;
+	height : auto;
+}
+
+header {
+	margin : auto;
+}
+
+h1 {
+	text-align : center;
+	color : black;
+	font-family : 'Franklin Gothic Medium';
+}
+
+h2, h3, h4 {
+    text-transform: capitalize;
+	text-align: center;
+	padding-top : 10px;
+	padding-bottom : 10px;
+	font-family:"Merriweather";
+}
+
+h5 {
+    text-transform: capitalize;
+    width: 90%;
+    text-align: left;
+    margin-left: 10%;
+    font-size:14px;
+    font-weight:700;
+    border:solid;
+
+}
+
+section {
+    border-width:0.0px;
+    text-align:center;
+}
+
+form {
+	width:60%;
+	border:solid;
+	text-align:center;
+    border-width:0.2px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height:auto;
+}
+
+form h3 {
+    margin:0;
+    padding-top:1%;
+}
+
+form button {
+    background-color: rgb(145, 42, 42,0.8);
+    border:solid;
+    border-width:0.2px;
+    display:block;
+    color:ivory;
+    margin-left:40%;
+    margin-right:auto;
+	font-size: 18px;
+    height: 42px;
+	width:17%;  
+	font-weight: bold;
+    cursor:pointer;
+    padding: 2px 3px 2px 3px;
+}
+
+#btnsubmit > #wait {
+    color:white;
+}
+
+fieldset {
+	border-width: 0.0px;
+}
+
+form div > div {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+div .error {
+    display:block;
+    width:40%;
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+    color:red;
+}
+
+
+div > label {
+    margin-left:40px;
+    margin-right:50px;
+    float:left;
+    width:35%;
+    text-align:right;
+} 
+
+#checks {
+	width:auto;
+	height:auto;
+}
+
+#checks .labels {
+    display:flex;
+    flex-direction: column;
+}
+
+.labels {
+    display:flex;
+    flex-direction: column;
+    width:auto;
+    border:solid;
+}
+
+.labels > .spe {
+    display: flex;
+    width:90%;
+    padding:2px;
+    margin-left:10%;
+    padding-bottom: 0px;
+}
+
+.labels > .add_spe {
+    margin-top:0px;
+    margin-left:36.5%;
+    width:50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.labels > .spe div {
+    width:auto;
+    display:flex;
+}
+
+.spe > div > label {
+    width:150px;
+    height:fit-content;
+    text-align: center;
+}
+
+.spe > .lab_e {
+    padding-top:10px;
+}
+
+.lab_e > input {
+    width:20px;
+    margin-bottom:9px;
+}
+
+.spe > button {
+    width:40px;
+    margin: 8px 0 0 0;
+}
+
+#checks > label  {
+	margin:0px 0px 0px 0px;
+	width:auto;
+}
+
+#checks > input {
+	margin:0px 0px 0px 0px;
+	width:auto;
+}
+
+input, textarea, select {
+	color:black;
+	font-size: 17px;
+    padding: 3px 0px 3px 0px;
+}
+
+div > textarea {
+    margin-top:10px;
+    margin-bottom:10px;
+    width:40%;
+    height:200px;
+}
+
+.compare {
+    border:solid;
+}
+
+.compare > .brands {
+    margin:1px;
+    border:solid;
+}
+
+
+table {
+    border:solid;
+    margin:auto;
+}
+
+td {
+    border:solid;
+}
+
+th,td {
+    background-color: mediumseagreen;
+    border:solid;
+    margin:5px;
+    padding:2px;
+}
+
+td > div {
+    margin:5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+td > div > b {
+    margin:1px;
+}
+
+
+.div_error_cities {
+    border:dashed red 3px;
+}
+
+@media screen and (max-width:1800px) {
+    div .error {
+        width:100%;
+    }
+}
+
+@media screen and (max-width:1500px) {
+}
+
+@media screen and (max-width:1200px) {
+    form div {
+        width:100%;
+        margin-top:10px;
+        margin-bottom:10px;
+        display:flex;
+        flex-direction:column;
+    }
+
+    div label {
+        float:none;
+        margin-left:0px;
+        margin-right:0px;
+        width:auto;
+    }
+
+    form textarea {
+        width:100%;
+    }
+
+    form button {
+        width:80%;
+        margin-left:10%;
+    }
+}
+
+@media screen and (max-width:800px) {
+    h5 {
+        width:100%;
+        margin-left:auto;
+        text-align:center;
+    }
+
+    form {
+        width:100%;
+    }
+
+    form div {
+        margin-top:2px;
+        margin-bottom: 0px;
+    }
+
+    form div > div {
+        margin-top:0px;
+        margin-bottom: 4px;
+    }
+}

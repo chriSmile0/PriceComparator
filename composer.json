@@ -1,0 +1,20 @@
+{
+	"description": "scrapping supermarkets",
+	"license": "proprietary",
+	"name": "supermarket/scrap",
+	"authors": [
+		{
+			"name": "Chris",
+			"role": "Owner/Developer"
+		}
+	],
+	"require": {
+		"chrismile0/scrapper": "^1.5.2"
+	},
+	"repositories": {
+		"repo-name": {
+			"type": "vcs",
+			"url": "https://github.com/chriSmile0/Scrapper"
+		}
+	}
+}
