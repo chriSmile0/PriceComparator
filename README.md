@@ -77,11 +77,11 @@ people (I'm not [ROBIN_HOOD](https://en.wikipedia.org/wiki/Robin_Hood) and not [
 - (@see `cat src/product/README.md`) for use main program 
   - `composer update`
 > [!IMPORTANT]
->> On apache server for init `pricecomparator.co` dont forget to `mkdir .cache .mozilla .local on your /var/www` and setup your htaccess
->>
->> If we use this on lampp/xampp just change the url in `post` function to 
+> On apache server for init `pricecomparator.co` dont forget to `mkdir .cache .mozilla .local on your /var/www` and setup your htaccess
+>
+> If we use this on lampp/xampp just change the url in `post` function to 
 	the path to `cities.php` file.
->>
+
 
 ## Clone
 - IF YOU USE THIS TOOL FREE JUST A MENTION IS APPRECIATE OR A STAR (NOT COFFEE OR TEA FOR ME FOR THE MOMENT, thanks)
