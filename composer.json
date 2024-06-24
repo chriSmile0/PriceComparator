@@ -9,22 +9,12 @@
 		}
 	],
 	"require": {
-		"chrismile0/scrapper": "^1.4.1"
+		"chrismile0/scrapper": "^1.5.2"
 	},
 	"repositories": {
 		"repo-name": {
 			"type": "vcs",
 			"url": "https://github.com/chriSmile0/Scrapper"
 		}
-	},
-	"scripts": {
-		"post-install-cmd": [
-			"y | rm -r vendor/chrismile0/scrapper/src/DatadomeBreaker ",
-			"git clone https://github.com/chriSmile0/DatadomeBreaker vendor/chrismile0/scrapper/src/DatadomeBreaker 2> /dev/null"
-		],
-		"post-update-cmd": [
-			"y | rm -r vendor/chrismile0/scrapper/src/DatadomeBreaker ",
-		  	"git clone https://github.com/chriSmile0/DatadomeBreaker vendor/chrismile0/scrapper/src/DatadomeBreaker 2> /dev/null"
-		]
 	}
 }

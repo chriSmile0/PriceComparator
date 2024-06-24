@@ -1,0 +1,24 @@
+<div class="compare"><div class="brands"><h5 style="text-align:center;margin-left:5%;">herta</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>HERTA Allumettes nature 200g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b >2,85</b><b style="border:solid blue;">1.99</b></div></td></tr>
+<tr><th>HERTA Allumettes nature sans nitrite  - 2x75g-150g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">3,08</b><b >3.15</b></div></td></tr>
+<tr><th>HERTA Allumettes fumées sans nitrite  - 2x75g-150g</th> <th>Auchan:Paris</th> <th>3,06</th> </tr>
+<tr><th>HERTA Allumettes de bacon fumées 3% de matière grasse  - 2x100g-200g</th> <th>Auchan:Paris</th> <th>2,86</th> </tr>
+<tr><th>HERTA Lardons fumés sans nitrite  - 2x75g-150g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2,93</b><b >2.55</b></div></td></tr>
+<tr><th>HERTA Lardons fumés 200g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">3,08</b><b >3.15</b></div></td></tr>
+<tr><th>HERTA Lardons nature 200g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b >3,11</b><b style="border:solid blue;">2.75</b></div></td></tr>
+<tr><th>HERTA Fines tranches de poitrine fumée 7g</th> <th>Auchan:Paris</th> <th>3,11</th> </tr>
+<tr><th>HERTA Allumettes fumées 200g</th> <td><div><b >Auchan:Paris</b><b >Monoprix:Paris</b></div></td><td><div><b style="border:solid blue;">2,91</b><b >2.79</b></div></td></tr>
+<tr><th>HERTA Lardons fumés 300g</th> <th>Auchan:Paris</th> <th>3,35</th> </tr>
+<tr><th>HERTA Fines tranches de poitrine fumée  - 2x7g-14g</th> <th>Auchan:Paris</th> <th>3,91</th> </tr>
+<tr><th>HERTA Lardons fumés réduit en sel  - 2x75g-150g</th> <th>Auchan:Paris</th> <th>2,83</th> </tr>
+<tr><th>herta lardons nature sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.55</th> </tr>
+<tr><th>herta allumettes fumés sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+<tr><th>herta allumettes fumées -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.59</th> </tr>
+<tr><th>herta lardons -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.09</th> </tr>
+<tr><th>herta allumettes de bacon 200g</th> <th>Monoprix:Paris</th> <th>2.84</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">la vie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>LA VIE Lardons végétaux fumés  - 2x75g-150g</th> <th>Auchan:Paris</th> <th>4,50</th> </tr>
+<tr><th>la vie lardon végétaux fume 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+<tr><th>la vie lardon végétaux nature 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">fleury michon</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>FLEURY MICHON Allumettes de poulet  - 2x75g-150g</th> <th>Auchan:Paris</th> <th>2,18</th> </tr>
+<tr><th>FLEURY MICHON Allumettes de jambon  - 2x75g-150g</th> <th>Auchan:Paris</th> <th>1,95</th> </tr>
+<tr><th>fleury michon allumettes de jambon cuit - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>1.99</th> </tr>
+</table></div></div>

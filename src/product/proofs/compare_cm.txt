@@ -1,0 +1,93 @@
+array(18) {
+  [0]=>
+  string(15) "carrefour extra"
+  [1]=>
+  string(15) "nous anti gaspi"
+  [2]=>
+  string(17) "carrefour classic"
+  [3]=>
+  string(6) "my pie"
+  [4]=>
+  string(13) "carrefour bio"
+  [5]=>
+  string(0) ""
+  [6]=>
+  string(8) "monoprix"
+  [7]=>
+  string(12) "monoprix bio"
+  [8]=>
+  string(13) "fleury michon"
+  [9]=>
+  string(9) "naturalia"
+  [10]=>
+  string(9) "réghalal"
+  [11]=>
+  string(6) "la vie"
+  [12]=>
+  string(6) "sodebo"
+  [13]=>
+  string(15) "pierre schmidt "
+  [14]=>
+  string(9) "stoeffler"
+  [15]=>
+  string(5) "marie"
+  [16]=>
+  string(10) "mix buffet"
+  [17]=>
+  string(5) "natos"
+}
+<div class="compare"><div class="brands"><h5 style="text-align:center;margin-left:5%;">herta</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Lardons fumés conservation sans nitrite   HERTA 2x75g-150g</th> <th>Carrefour:Paris</th> <th>3.03</th> </tr>
+<tr><th>Lardons natures conservation sans nitrite   HERTA 2x75g-150g</th> <th>Carrefour:Paris</th> <th>3.21</th> </tr>
+<tr><th>herta lardons nature sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.55</th> </tr>
+<tr><th>herta lardons fumés sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.55</th> </tr>
+<tr><th>herta allumettes fumés sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+<tr><th>herta allumettes nature sans nitrite - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+<tr><th>herta lardons fumés 200g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+<tr><th>herta lardons nature 200g</th> <th>Monoprix:Paris</th> <th>2.75</th> </tr>
+<tr><th>herta allumettes fumées -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>2.59</th> </tr>
+<tr><th>herta lardons -25% de sel - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>3.09</th> </tr>
+<tr><th>herta allumettes fumées 200g</th> <th>Monoprix:Paris</th> <th>2.79</th> </tr>
+<tr><th>herta allumettes de bacon 200g</th> <th>Monoprix:Paris</th> <th>2.84</th> </tr>
+<tr><th>herta allumettes nature 200g</th> <th>Monoprix:Paris</th> <th>1.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">carrefour extra</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Lardons fumés CARREFOUR EXTRA 2x100g-200g</th> <th>Carrefour:Paris</th> <th>3.38</th> </tr>
+<tr><th>Lardons nature CARREFOUR EXTRA 2x100g-200g</th> <th>Carrefour:Paris</th> <th>3.23</th> </tr>
+<tr><th>Lardons de saumon fumé CARREFOUR EXTRA 90g</th> <th>Carrefour:Paris</th> <th>4.54</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">nous anti gaspi</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Lardons fumés NOUS ANTI GASPI 200g</th> <th>Carrefour:Paris</th> <th>1.7</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">carrefour classic</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Pizza chèvre lardons CARREFOUR CLASSIC' 450g</th> <th>Carrefour:Paris</th> <th>3.28</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">my pie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Pinsa lardons MY PIE 220g</th> <th>Carrefour:Paris</th> <th>2.7</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">carrefour bio</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Lardons Allumettes bio fumées CARREFOUR BIO 2x75g-150g</th> <th>Carrefour:Paris</th> <th>3.48</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">Inconnu</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>Lot 3x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  3x280g-840g</th> <th>Carrefour:Paris</th> <th>45.96</th> </tr>
+<tr><th>Dès De Lardon Fumé 1 Kg.  1kg</th> <th>Carrefour:Paris</th> <th>22.89</th> </tr>
+<tr><th>Lot 6x Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  6x280g-1680g</th> <th>Carrefour:Paris</th> <th>83.43</th> </tr>
+<tr><th>Lotte Aux Lentilles Et Lardons, 240g  240g</th> <th>Carrefour:Paris</th> <th>16.8</th> </tr>
+<tr><th>Terrine De Campagne Aux Lardons Fumés - Vpf - Pot 280g  0.28kg</th> <th>Carrefour:Paris</th> <th>13.99</th> </tr>
+<tr><th>Lot De 3 Lardons Fumés Sous Vide Soit Env 840g  </th> <th>Carrefour:Paris</th> <th>11.2</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">monoprix</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>monoprix lardons nature qualité supérieure 200g</th> <th>Monoprix:Paris</th> <th>1.65</th> </tr>
+<tr><th>monoprix lardons fumés qualité supérieure 200g</th> <th>Monoprix:Paris</th> <th>1.69</th> </tr>
+<tr><th>monoprix lardon allumette fumé - 2x100g-200g</th> <th>Monoprix:Paris</th> <th>2.25</th> </tr>
+<tr><th>monoprix allumettes de lardons nature - 2x100g-200g</th> <th>Monoprix:Paris</th> <th>2.25</th> </tr>
+<tr><th>monoprix allumettes de bacon fumé 200g</th> <th>Monoprix:Paris</th> <th>2.39</th> </tr>
+<tr><th>monoprix lardons fumés - 25% de sel 200g</th> <th>Monoprix:Paris</th> <th>2.39</th> </tr>
+<tr><th>monoprix lardons de truite fumée 90g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+<tr><th>monoprix lardons de saumon fumés 90g</th> <th>Monoprix:Paris</th> <th>5.15</th> </tr>
+<tr><th>monoprix petits pois cuisinés aux lardons, carottes & oignons 280g</th> <th>Monoprix:Paris</th> <th>1.95</th> </tr>
+<tr><th>monoprix galettes de blé noir chèvres lardons x2, 300g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+<tr><th>monoprix galettes de blé noir champignons lardon emmental x2 300g</th> <th>Monoprix:Paris</th> <th>4.15</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">monoprix bio</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>monoprix bio lardons fumés au bois de hêtre bio 150g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">fleury michon</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>fleury michon allumettes de jambon cuit - 2x75g-150g</th> <th>Monoprix:Paris</th> <th>1.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">naturalia</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>naturalia lardons fumés sans sel nitrité ajouté bio 150g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+<tr><th>naturalia lardons nature bio 150g</th> <th>Monoprix:Paris</th> <th>4.19</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">réghalal</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>réghalal lardons de volaille fumés au bois de hêtre 150g</th> <th>Monoprix:Paris</th> <th>3.15</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">la vie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>la vie lardon végétaux fume 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+<tr><th>la vie lardon végétaux nature 150 g</th> <th>Monoprix:Paris</th> <th>3.85</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">sodebo</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>sodebo pizza la pizz chèvre affiné et lardons 470g</th> <th>Monoprix:Paris</th> <th>3.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">pierre schmidt </h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>pierre schmidt 2 flammekueches lardons oignons rondes</th> <th>Monoprix:Paris</th> <th>2.89</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">stoeffler</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>stoeffler flammekueche fromage blanc lardons oignons 550g</th> <th>Monoprix:Paris</th> <th>5.99</th> </tr>
+<tr><th>stoeffler flammkueche fromage lardons oignons 350g</th> <th>Monoprix:Paris</th> <th>4.29</th> </tr>
+<tr><th>stoeffler flammkueche fromage lardons oignons 180g</th> <th>Monoprix:Paris</th> <th>2.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">marie</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>marie tarte chèvre oignons lardons fumés pur beurre 350g</th> <th>Monoprix:Paris</th> <th>3.79</th> </tr>
+<tr><th>marie quiche lorraine lardons fumes creme fraiche et emmental pur beurre marie 400g</th> <th>Monoprix:Paris</th> <th>3.99</th> </tr>
+<tr><th>marie tagliatelles À la carbonara aux lardons fumés & crème fraîche 330g</th> <th>Monoprix:Paris</th> <th>4.49</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">mix buffet</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>mix pizza montagnarde lardons raclette 380g</th> <th>Monoprix:Paris</th> <th>6.99</th> </tr>
+</table></div><div class="brands"><h5 style="text-align:center;margin-left:5%;">natos</h5><table><tr><th>Name</th><th>ENS:City</th><th>Price</th></tr><tr><th>natos pain brioche chorizo lardons 300g</th> <th>Monoprix:Paris</th> <th>6.49</th> </tr>
+</table></div></div>
